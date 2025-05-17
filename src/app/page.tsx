@@ -9,8 +9,8 @@ import IconCards from "./_components/icon-cards";
 
 
 export const metadata: Metadata = {
-  title: 'Doozy Solutions | NetSuite Experts With a Twist',
-  description: 'Doozy Solutions is a NetSuite implementation, product development and managed services firm with offices in Colorado and Sydney. Doozy is focused on making sure its clients receive the maximum ROI from their investments in NetSuite ERP software. The company also has two software products targeting historically underserved verticals: Crafted ERP for craft beverage manufacturing and NetSuite for Agriculture for crop farmers and other food producers.',
+  title: 'Akriti Sky Morph ,Complete Solution ',
+  description: 'At Akriti Sky Morph, we don&apos;t just consult — we empower. Bridging talent and technology, we design smart solutions that move businesses forward with precision and purpose',
 }
 
 export default function Home() {
