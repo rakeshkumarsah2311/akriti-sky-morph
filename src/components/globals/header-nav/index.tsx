@@ -17,7 +17,7 @@ const Navbar = () => {
             <NavItem label="Services" href="#services" />
             <NavItem label="Solutions" href="#solutions" />
             <NavItem label="About Akriti Sky Morph " href="#about" />
-            <NavItem label="Say Hey" href="#" />
+            <NavItem label="Say Hey" href="sales@skymorphs.com" />
           </nav>
         </div>
         <MobileNavbar>
