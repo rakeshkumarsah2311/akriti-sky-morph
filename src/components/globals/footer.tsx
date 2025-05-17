@@ -39,7 +39,7 @@ const Footer = () => {
               className="rounded-full hover:opacity-80"
             />
           </Link>
-          <Link href="#">
+          <Link href="sales@skymorphs.com">
             <Image
               src="/gmail.jpg"
               alt="Email"
