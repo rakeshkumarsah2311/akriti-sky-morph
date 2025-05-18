@@ -80,7 +80,7 @@ const Footer = () => {
 
       {/* Footer Bottom Text */}
       <p className="text-center text-sm text-white mt-10">
-        &copy; 2025 All rights reserved. Akriti Sky Morph, LLC
+        &copy; 2025 All rights reserved. Akriti Sky Morph, Pvt Ltd 
       </p>
     </footer>
   );
