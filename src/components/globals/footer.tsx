@@ -48,7 +48,7 @@ const Footer = () => {
               className="rounded-full hover:opacity-80"
             />
           </Link>
-          <Link href="#">
+          <Link href="https://www.linkedin.com/in/akriti-skymorph-tech-solutions-private-limited-91a4b5366/">
             <Image
               src="/Linkedln.jpg"
               alt="LinkedIn"
